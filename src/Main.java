@@ -6,6 +6,6 @@ public class Main {
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
-        PrintStream printf = System.out.printf("Zdravo svet!");
+        PrintStream printf = System.out.printf("Привет мир!");
     }
 }
